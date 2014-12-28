@@ -5,6 +5,12 @@ Wastificator
 
 Это скрипт Greasemonkey.
 
+
+Установка
+============
+https://github.com/RecursivePie/Wastificator/raw/master/wastificator.user.js
+
+
 1. Щелкните по textarea
 2. Щелкните по кнопке [**N**]
 3. Щелкните по стилю
